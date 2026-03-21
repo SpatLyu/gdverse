@@ -166,15 +166,15 @@ srs_interaction_detector = \(y,x1,x2,wt){
   pd12 = pd12a[[1]]
 
   if (pd12 < min(pd1, pd2)) {
-    interaction = c("Weaken, nonlinear")
+    interaction = "Weaken, nonlinear"
   } else if (pd12 >= min(pd1, pd2) & pd12 <= max(pd1, pd2)) {
-    interaction = c("Weaken, uni-")
+    interaction = "Weaken, uni-"
   } else if (pd12 > max(pd1, pd2) & (pd12 < pd1 + pd2)) {
-    interaction = c("Enhance, bi-")
+    interaction = "Enhance, bi-"
   } else if (pd12 == pd1 + pd2) {
-    interaction = c("Independent")
+    interaction = "Independent"
   } else {
-    interaction = c("Enhance, nonlinear")
+    interaction = "Enhance, nonlinear"
   }
   interd = list(pd1,pd2,pd12,pd1a[[2]],pd2a[[2]],pd12a[[2]],interaction)
   names(interd) = c("Variable1 PD","Variable2 PD",

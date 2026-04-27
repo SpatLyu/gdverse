@@ -78,7 +78,9 @@ devtools::install_github("stscl/gdverse",
 install **gdverse** from github.
 
 ✨ The **gdverse** package supports the use of robust discretization for
-the robust geographical detector and robust interaction detector. For
+the [robust geographical
+detector](https://doi.org/10.1016/j.jag.2022.102782) and [robust
+interaction detector](https://doi.org/10.1016/j.spasta.2024.100814). For
 details on using them, please refer to
 <https://stscl.github.io/gdverse/articles/rgdrid.html>.
 
@@ -146,9 +148,9 @@ g
 
 ## CITATION
 
-Please cite **gdverse** as:
+Please cite **[gdverse](https://doi.org/10.1111/tgis.70032)** as:
 
-    Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y. and Zhao, W. (2025), gdverse: An R Package for Spatial Stratified Heterogeneity Family. Transactions in GIS, 29(2). https://doi.org/10.1111/tgis.70032
+    Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y., Zhao, W., 2025. gdverse: An R Package for Spatial Stratified Heterogeneity Family. Transactions in GIS 29. https://doi.org/10.1111/tgis.70032
 
 A BibTeX entry for LaTeX users is:
 
@@ -166,3 +168,64 @@ A BibTeX entry for LaTeX users is:
     month={mar}
 }
 ```
+
+## Reference
+
+Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y., Zhao, W., 2025. gdverse: An
+R Package for Spatial Stratified Heterogeneity Family. Transactions in
+GIS 29. <https://doi.org/10.1111/tgis.70032>.
+
+Wang, J., Li, X., Christakos, G., Liao, Y., Zhang, T., Gu, X., Zheng,
+X., 2010. Geographical Detectors‐Based Health Risk Assessment and its
+Application in the Neural Tube Defects Study of the Heshun Region,
+China. International Journal of Geographical Information Science 24,
+107–127. <https://doi.org/10.1080/13658810802443457>.
+
+Song, Y., Wang, J., Ge, Y., Xu, C., 2020. An optimal parameters-based
+geographical detector model enhances geographic characteristics of
+explanatory variables for spatial heterogeneity analysis: cases with
+different types of spatial data. GIScience & Remote Sensing 57, 593–610.
+<https://doi.org/10.1080/15481603.2020.1760434>.
+
+Luo, P., Song, Y., Huang, X., Ma, H., Liu, J., Yao, Y., Meng, L., 2022.
+Identifying determinants of spatio-temporal disparities in soil moisture
+of the Northern Hemisphere using a geographically optimal zones-based
+heterogeneity model. ISPRS Journal of Photogrammetry and Remote Sensing
+185, 111–128. <https://doi.org/10.1016/j.isprsjprs.2022.01.009>.
+
+Li, Y., Luo, P., Song, Y., Zhang, L., Qu, Y., Hou, Z., 2023. A locally
+explained heterogeneity model for examining wetland disparity.
+International Journal of Digital Earth 16, 4533–4552.
+<https://doi.org/10.1080/17538947.2023.2271883>.
+
+Cang, X., Luo, W., 2018. Spatial association detector (SPADE).
+International Journal of Geographical Information Science 32, 2055–2075.
+<https://doi.org/10.1080/13658816.2018.1476693>.
+
+Song, Y., Wu, P., 2021. An interactive detector for spatial
+associations. International Journal of Geographical Information Science
+35, 1676–1701. <https://doi.org/10.1080/13658816.2021.1882680>.
+
+Zhang, Z., Song, Y., Wu, P., 2022. Robust geographical detector.
+International Journal of Applied Earth Observation and Geoinformation
+109, 102782. <https://doi.org/10.1016/j.jag.2022.102782>.
+
+Zhang, Z., Song, Y., Karunaratne, L., Wu, P., 2024. Robust interaction
+detector: A case of road life expectancy analysis. Spatial Statistics
+59, 100814. <https://doi.org/10.1016/j.spasta.2024.100814>.
+
+Bai, H., Li, D., Ge, Y., Wang, J., Cao, F., 2022. Spatial rough
+set-based geographical detectors for nominal target variables.
+Information Sciences 586, 525–539.
+<https://doi.org/10.1016/j.ins.2021.12.019>.
+
+Wang, J., Zhang, T., Fu, B., 2016. A measure of spatial stratified
+heterogeneity. Ecological Indicators 67, 250–256.
+<https://doi.org/10.1016/j.ecolind.2016.02.052>.
+
+Wang, J., Haining, R., Zhang, T., Xu, C., Hu, M., Yin, Q., Li, L., Zhou,
+C., Li, G., Chen, H., 2024. Statistical Modeling of Spatially Stratified
+Heterogeneous Data. Annals of the American Association of Geographers
+114, 499–519. <https://doi.org/10.1080/24694452.2023.2289982>.
+
+ 

@@ -42,15 +42,15 @@ Current models and functions provided by **gdverse** are:
 
 | *Model* | *Function* | *Support* |
 |---------------------|--------------------|------------------|
-|[GD](https://doi.org/10.1080/13658810802443457)|`gd()`| ✔️ |
-|[OPGD](https://doi.org/10.1080/15481603.2020.1760434)|`opgd()`| ✔️ |
-|[GOZH](https://doi.org/10.1016/j.isprsjprs.2022.01.009)|`gozh()`| ✔️ |
-|[LESH](https://doi.org/10.1080/17538947.2023.2271883)|`lesh()`| ✔️ |
-|[SPADE](https://doi.org/10.1080/13658816.2018.1476693)|`spade()`| ✔️ |
-|[IDSA](https://doi.org/10.1080/13658816.2021.1882680)|`idsa()`| ✔️ |
-|[RGD](https://doi.org/10.1016/j.jag.2022.102782)|`rgd()`| ✔️ |
-|[RID](https://doi.org/10.1016/j.spasta.2024.100814)|`rid()`| ✔️ |
-|[SRSGD](https://doi.org/10.1016/j.ins.2021.12.019)|`srsgd()`| ✔️ |
+|[GD][2]|`gd()`| ✔️ |
+|[OPGD][3]|`opgd()`| ✔️ |
+|[GOZH][4]|`gozh()`| ✔️ |
+|[LESH][5]|`lesh()`| ✔️ |
+|[SPADE][6]|`spade()`| ✔️ |
+|[IDSA][7]|`idsa()`| ✔️ |
+|[RGD][8]|`rgd()`| ✔️ |
+|[RID][9]|`rid()`| ✔️ |
+|[SRSGD][10]|`srsgd()`| ✔️ |
 
 ## Installation
 

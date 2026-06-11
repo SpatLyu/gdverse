@@ -140,13 +140,17 @@ Wang, J., Li, X., Christakos, G., Liao, Y., Zhang, T., Gu, X., Zheng, X., 2010. 
 
 Song, Y., Wang, J., Ge, Y., Xu, C., 2020. An optimal parameters-based geographical detector model enhances geographic characteristics of explanatory variables for spatial heterogeneity analysis: cases with different types of spatial data. GIScience & Remote Sensing 57, 593–610. [https://doi.org/10.1080/15481603.2020.1760434][3].
 
+Luo, P., Song, Y., Huang, X., Ma, H., Liu, J., Yao, Y., Meng, L., 2022. Identifying determinants of spatio-temporal disparities in soil moisture of the Northern Hemisphere using a geographically optimal zones-based heterogeneity model. ISPRS Journal of Photogrammetry and Remote Sensing 185, 111–128. [https://doi.org/10.1016/j.isprsjprs.2022.01.009][4].
+
+Li, Y., Luo, P., Song, Y., Zhang, L., Qu, Y., Hou, Z., 2023. A locally explained heterogeneity model for examining wetland disparity. International Journal of Digital Earth 16, 4533–4552. [https://doi.org/10.1080/17538947.2023.2271883][5].
+
 &nbsp; 
 
 [1]: https://doi.org/10.1111/tgis.70032
 [2]: https://doi.org/10.1080/13658810802443457
 [3]: https://doi.org/10.1080/15481603.2020.1760434
-[4]: https://doi.org/10.1890/14-1479.1
-[5]: https://doi.org/10.1016/j.compenvurbsys.2026.102435
+[4]: https://doi.org/10.1016/j.isprsjprs.2022.01.009
+[5]: https://doi.org/10.1080/17538947.2023.2271883
 [6]: https://doi.org/10.1126/science.1227079
 [7]: https://doi.org/10.1080/13658810802443457
 [8]: https://doi.org/10.1016/j.fmre.2023.01.007

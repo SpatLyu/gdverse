@@ -154,6 +154,8 @@ Zhang, Z., Song, Y., Karunaratne, L., Wu, P., 2024. Robust interaction detector:
 
 Bai, H., Li, D., Ge, Y., Wang, J., Cao, F., 2022. Spatial rough set-based geographical detectors for nominal target variables. Information Sciences 586, 525–539. [https://doi.org/10.1016/j.ins.2021.12.019][10].
 
+Wang, J., Zhang, T., Fu, B., 2016. A measure of spatial stratified heterogeneity. Ecological Indicators 67, 250–256. [https://doi.org/10.1016/j.ecolind.2016.02.052][11].
+
 Wang, J., Haining, R., Zhang, T., Xu, C., Hu, M., Yin, Q., Li, L., Zhou, C., Li, G., Chen, H., 2024. Statistical Modeling of Spatially Stratified Heterogeneous Data. Annals of the American Association of Geographers 114, 499–519. [https://doi.org/10.1080/24694452.2023.2289982][12].
 
 &nbsp; 
@@ -168,5 +170,5 @@ Wang, J., Haining, R., Zhang, T., Xu, C., Hu, M., Yin, Q., Li, L., Zhou, C., Li,
 [8]: https://doi.org/10.1016/j.jag.2022.102782
 [9]: https://doi.org/10.1016/j.spasta.2024.100814
 [10]: https://doi.org/10.1016/j.ins.2021.12.019
-[11]: https://doi.org/10.1080/24694452.2023.2289982
+[11]: https://doi.org/10.1016/j.ecolind.2016.02.052
 [12]: https://doi.org/10.1080/24694452.2023.2289982

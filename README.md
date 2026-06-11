@@ -217,6 +217,15 @@ detector: A case of road life expectancy analysis. Spatial Statistics
 Bai, H., Li, D., Ge, Y., Wang, J., Cao, F., 2022. Spatial rough
 set-based geographical detectors for nominal target variables.
 Information Sciences 586, 525–539.
-<https://doi.org/10.1016/j.ins.2021.12.019>
+<https://doi.org/10.1016/j.ins.2021.12.019>.
+
+Wang, J., Zhang, T., Fu, B., 2016. A measure of spatial stratified
+heterogeneity. Ecological Indicators 67, 250–256.
+<https://doi.org/10.1016/j.ecolind.2016.02.052>.
+
+Wang, J., Haining, R., Zhang, T., Xu, C., Hu, M., Yin, Q., Li, L., Zhou,
+C., Li, G., Chen, H., 2024. Statistical Modeling of Spatially Stratified
+Heterogeneous Data. Annals of the American Association of Geographers
+114, 499–519. <https://doi.org/10.1080/24694452.2023.2289982>.
 
  

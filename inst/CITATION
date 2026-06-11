@@ -1,12 +1,17 @@
 citHeader("To cite package gdverse in publications, please use:")
 
 bibentry(
-  bibtype  = "Article",
-  title    = "gdverse: An R Package for Spatial Stratified Heterogeneity Family",
-  author   = "Wenbo Lv and Yangyang Lei and Fangmei Liu and Jianwu Yan and Yongze Song and Wufan Zhao",
-  journal  = "Transactions in GIS",
-  year     = "2025",
-  volume   = "29",
-  number   = "2",
-  doi      = "10.1111/tgis.70032"
+  bibtype      = "Article",
+  title        = "gdverse: An R Package for Spatial Stratified Heterogeneity Family",
+  author       = "Wenbo Lv and Yangyang Lei and Fangmei Liu and Jianwu Yan and Yongze Song and Wufan Zhao",
+  journal      = "Transactions in GIS",
+  year         = "2025",
+  volume       = "29",
+  number       = "2",
+  doi          = "10.1111/tgis.70032",
+  textVersion  =
+  paste("Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y., Zhao, W., 2025.",
+        "gdverse: An R Package for Spatial Stratified Heterogeneity Family.",
+        "Transactions in GIS 29.",
+        "https://doi.org/10.1111/tgis.70032.")
 )

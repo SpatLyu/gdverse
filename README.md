@@ -78,7 +78,9 @@ devtools::install_github("stscl/gdverse",
 install **gdverse** from github.
 
 ✨ The **gdverse** package supports the use of robust discretization for
-the robust geographical detector and robust interaction detector. For
+the [robust geographical
+detector](https://doi.org/10.1016/j.jag.2022.102782) and [robust
+interaction detector](https://doi.org/10.1016/j.spasta.2024.100814). For
 details on using them, please refer to
 <https://stscl.github.io/gdverse/articles/rgdrid.html>.
 
@@ -146,7 +148,7 @@ g
 
 ## CITATION
 
-Please cite **gdverse** as:
+Please cite **[gdverse](https://doi.org/10.1111/tgis.70032)** as:
 
     Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y., Zhao, W., 2025. gdverse: An R Package for Spatial Stratified Heterogeneity Family. Transactions in GIS 29. https://doi.org/10.1111/tgis.70032
 

@@ -131,3 +131,25 @@ A BibTeX entry for LaTeX users is:
     month={mar}
 }
 ```
+
+## Reference
+
+Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y., Zhao, W., 2025. gdverse: An R Package for Spatial Stratified Heterogeneity Family. Transactions in GIS 29. [https://doi.org/10.1111/tgis.70032][1].
+
+Wang, J., Li, X., Christakos, G., Liao, Y., Zhang, T., Gu, X., Zheng, X., 2010. Geographical Detectors‐Based Health Risk Assessment and its Application in the Neural Tube Defects Study of the Heshun Region, China. International Journal of Geographical Information Science 24, 107–127. [https://doi.org/10.1080/13658810802443457][2].
+
+Song, Y., Wang, J., Ge, Y., Xu, C., 2020. An optimal parameters-based geographical detector model enhances geographic characteristics of explanatory variables for spatial heterogeneity analysis: cases with different types of spatial data. GIScience & Remote Sensing 57, 593–610. [https://doi.org/10.1080/15481603.2020.1760434][3].
+
+&nbsp; 
+
+[1]: https://doi.org/10.1111/tgis.70032
+[2]: https://doi.org/10.1080/13658810802443457
+[3]: https://doi.org/10.1080/15481603.2020.1760434
+[4]: https://doi.org/10.1890/14-1479.1
+[5]: https://doi.org/10.1016/j.compenvurbsys.2026.102435
+[6]: https://doi.org/10.1126/science.1227079
+[7]: https://doi.org/10.1080/13658810802443457
+[8]: https://doi.org/10.1016/j.fmre.2023.01.007
+[9]: https://doi.org/10.1890/14-1479.1
+[10]: https://doi.org/10.1016/j.compenvurbsys.2026.102435
+[11]: https://doi.org/10.1016/j.compenvurbsys.2026.102435

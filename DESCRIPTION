@@ -30,8 +30,6 @@ Authors@R: c(
 Description: Detecting spatial associations via spatial stratified heterogeneity, accounting for spatial dependencies, interpretability, complex interactions, and robust stratification. In addition, it supports the spatial stratified heterogeneity family described in Lv et al. (2025)<doi:10.1111/tgis.70032>.
 License: GPL-3
 Encoding: UTF-8
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.3
 URL: https://stscl.github.io/gdverse/, https://github.com/stscl/gdverse
 BugReports: https://github.com/stscl/gdverse/issues
 Depends: 
@@ -68,3 +66,5 @@ LinkingTo:
 VignetteBuilder: knitr
 LazyData: true
 Config/testthat/edition: 3
+Config/roxygen2/markdown: TRUE
+Config/roxygen2/version: 8.0.0

@@ -1,6 +1,6 @@
 .onLoad = function(...) {
-  loadNamespace("sf")
-  loadNamespace("tibble")
+  requireNamespace("Rcpp", quietly = TRUE)
+  requireNamespace("tibble", quietly = TRUE)
   reticulate::py_require(c('numpy','pandas','ruptures','joblib'))
 }
 

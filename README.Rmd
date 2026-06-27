@@ -128,7 +128,8 @@ A BibTeX entry for LaTeX users is:
     publisher={Wiley}, 
     author={Lv, Wenbo and Lei, Yangyang and Liu, Fangmei and Yan, Jianwu and Song, Yongze and Zhao, Wufan},
     year={2025}, 
-    month={mar}
+    month={mar},
+    pages={e70032}
 }
 ```
 
